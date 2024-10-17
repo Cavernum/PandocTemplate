@@ -1,7 +1,7 @@
 filters:
+  - pandoc-include
   - mermaid-filter
   - pandoc-crossref
-  - pandoc-include
 standalone: true
 template: eisvogel
 
