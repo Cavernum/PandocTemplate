@@ -7,7 +7,7 @@ author:
     list or { name, affiliation }
   -->
 date: <!-- WRITE DATE HERE -->
-lang: fr-FR
+lang: fr
 
 note_type: reference
 writing_type: draft
